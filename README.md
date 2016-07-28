@@ -1,5 +1,7 @@
 #Curso de Egenharia Social da WebSchool
 
+**Início do curso previsto para Outubro**
+
 Nesse curso iremos abordar como aplicar Engenharia Social, não iremos ver técnicas de hacking nenhuma.
 
 O Curso visa ensinar alunos técnicas de Engenharia Social, baseando-se em técnicas sociais, culturas, psicologias, analise comportamentais e analise de informações.
@@ -81,7 +83,7 @@ A Engenharia Social não se limita apenas à obtenção de informações, é voc
 
 
 A ementa do curso está em construção ainda, quase finalizando. 
-O curso está previsto para ser lançado em Março.
+O curso está previsto para ser lançado em **Outubro**.
 
 Contribuam com idéias!
 
